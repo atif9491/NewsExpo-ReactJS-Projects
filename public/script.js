@@ -1,0 +1,1 @@
+alert("This Website is only working on the local host due to Local Api. Kindly Run On the Local Server and Click on the Logo To Start The Website");
